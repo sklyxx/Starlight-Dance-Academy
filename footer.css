@@ -1,0 +1,11 @@
+footer {
+    text-align: center;
+    background: rgb(235, 224, 255);
+    padding: 40px 0;
+}
+
+.Copyright {
+    color: #ffffff;
+    font-size: 13px;
+    padding: 20px 0 0;
+}
